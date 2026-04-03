@@ -1,18 +1,39 @@
 body {
     text-align: justify;
-    background-color: #f0f0f0;
+    background-color: rgb(231, 255, 234);
     font-family: Arial, Helvetica, sans-serif;
 }
+a {
+    text-decoration: none;
+}
+
+.borda{
+
+    border:2px solid black
+}
+
+.center{
+
+    text-align: center;
+}
 h1 {
-    color: #064a8f;
+    color: #03332c;
 }
 p {
     font-size: 16px;
 }
 h2 {
-    color: #0565c5;
+    color: #2f9283;
 }
 img {
     vertical-align: middle;
     margin-right: 8px;
+    border-radius: 50%;
+}
+.alinhar {
+    display:inline-flex ;
+    justify-content:space-between;
+    align-items: center;
+    list-style-type: none;
+    
 }

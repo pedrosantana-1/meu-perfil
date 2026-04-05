@@ -6,7 +6,7 @@
     var--cor4:#1a5c37;
     var--cor5:#063d1e;
 
-    font-family--fonte-padrao: 'Arial', 'Verdana', 'Helvetica', 'sans-serif';
+    --fonte-padrao: 'Arial', 'Verdana', 'Helvetica', 'sans-serif';
 
 }
 

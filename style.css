@@ -15,7 +15,7 @@ header{
     background-color: var (--cor5);
     color: var (--cor1);
     text-align: center;
-    background-image: linear-gradient ( tobottom, var (--cor3), var (--cor5));
+    background-image: linear-gradient ( bottom, #2fa866, #063d1e);
     min-height: 150 px;
     box-shadow: 3 px 3 px 3 px rgba (0, 0, 0, 0.321);
     border-radius: 4 px;
